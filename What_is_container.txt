@@ -1,2 +1,5 @@
 https://www.docker.com/resources/what-container
 https://cloud.google.com/containers/
+https://www.cio.com/article/2924995/what-are-containers-and-why-do-you-need-them.html
+
+https://jvns.ca/blog/2016/10/10/what-even-is-a-container/
